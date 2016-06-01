@@ -1,4 +1,5 @@
 # gitskill
 the first line. 
 Creating a new branch is quick.
-change?
+Creating a new branch is quick AND simple.        
+
